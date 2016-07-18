@@ -1,0 +1,5 @@
+theme = "cognitio"
+baseurl = "http://Cognitio.net/"
+languageCode = "fr-fr"
+title = ""
+MetaDataFormat = "toml"
