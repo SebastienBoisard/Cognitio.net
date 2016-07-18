@@ -1,3 +1,5 @@
 # Cognitio.net
 
-My blog about Go, Natural Language Processing, Machine Learning and Agility
+My [blog](http://cognitio.net) about Go, Natural Language Processing, Machine Learning and Agility
+
+
