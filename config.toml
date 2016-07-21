@@ -1,5 +1,72 @@
-theme = "cognitio"
+theme = "blackburn"
 baseurl = "http://Cognitio.net/"
 languageCode = "fr-fr"
-title = ""
+title = "Cognitio.net"
 MetaDataFormat = "toml"
+author = "Sébastien Boisard"
+# Shown in the side menu
+copyright = "&copy; 2016. All rights reserved."
+canonifyurls = true
+paginate = 10
+
+[indexes]
+  tag = "tags"
+  topic = "topics"
+
+[params]
+  # Shown in the home page
+  subtitle = ""
+  brand = "Cognitio.net"
+  googleAnalytics = "Your Google Analytics tracking ID"
+  disqus = "Your Disqus shortname"
+  # CSS name for highlight.js
+  highlightjs = "androidstudio"
+  dateFormat = "02 Jan 2006, 15:04"
+
+[menu]
+  # Shown in the side menu.
+  [[menu.main]]
+    name = "Home"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 0
+    identifier = "home"
+    url = "/"
+  [[menu.main]]
+    name = "Go"
+    pre = "<i class='fa fa-gg fa-fw'></i>"
+    weight = 1
+    identifier = "Go"
+    url = "/Go/"
+  [[menu.main]]
+    name = "ML"
+    pre = "<i class='fa fa-flask fa-fw'></i>"
+    weight = 2
+    identifier = "ML"
+    url = "/ML/"
+  [[menu.main]]
+    name = "NLP"
+    pre = "<i class='fa fa-cogs fa-fw'></i>"
+    weight = 3
+    identifier = "NLP"
+    url = "/NLP/"
+  [[menu.main]]
+    name = "Agility"
+    pre = "<i class='fa fa-wrench fa-fw'></i>"
+    weight = 4
+    identifier = "Agility"
+    url = "/Agility/"
+
+  [[menu.main]]
+    name = "GitHub"
+    pre = "<i class='fa fa-github fa-fw'></i>"
+    weight = 5
+    identifier = "GitHub"
+    url = "https://github.com/SebastienBoisard"
+
+  [[menu.main]]
+    name = "About"
+    pre = "<i class='fa fa-user fa-fw'></i>"
+    weight = 6
+    identifier = "about"
+    url = "/about/"
+
