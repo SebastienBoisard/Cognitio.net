@@ -35,8 +35,8 @@ paginate = 10
     name = "Go"
     pre = "<i class='fa fa-gg fa-fw'></i>"
     weight = 1
-    identifier = "Go"
-    url = "/Go/"
+    identifier = "go"
+    url = "/go/"
   [[menu.main]]
     name = "ML"
     pre = "<i class='fa fa-flask fa-fw'></i>"
@@ -64,7 +64,7 @@ paginate = 10
     url = "https://github.com/SebastienBoisard"
 
   [[menu.main]]
-    name = "About"
+    name = "About me"
     pre = "<i class='fa fa-user fa-fw'></i>"
     weight = 6
     identifier = "about"
