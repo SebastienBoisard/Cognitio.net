@@ -1,12 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cognitio Title</title>
+    <title>Cognitio.net</title>
     <link>http://Cognitio.net/</link>
-    <description>Recent content on Cognitio Title</description>
+    <description>Recent content on Cognitio.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
+    <copyright>&amp;copy; 2002 - 2016, Sébastien Boisard; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 22 Jul 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://Cognitio.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://cognitio.net/about/</link>
+      <pubDate>Fri, 22 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cognitio.net/about/</guid>
+      <description>&lt;p&gt;Quelques informations sur moi et sur ce site&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>L&#39;agilité</title>
+      <link>http://cognitio.net/agility/agility/</link>
+      <pubDate>Sun, 17 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cognitio.net/agility/agility/</guid>
+      <description>&lt;p&gt;Article en cours d&amp;rsquo;écriture&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Le Machine Learning</title>
+      <link>http://cognitio.net/ml/ml/</link>
+      <pubDate>Sun, 17 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cognitio.net/ml/ml/</guid>
+      <description>&lt;p&gt;Article en cours d&amp;rsquo;écriture&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Le Traitement du Langage Naturel</title>
+      <link>http://cognitio.net/nlp/nlp/</link>
+      <pubDate>Sun, 17 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cognitio.net/nlp/nlp/</guid>
+      <description>&lt;p&gt;Article en cours d&amp;rsquo;écriture&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Questions sur Go dans un entretien technique</title>
+      <link>http://cognitio.net/golang/golang-programming-interview-questions/</link>
+      <pubDate>Sun, 17 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cognitio.net/golang/golang-programming-interview-questions/</guid>
+      <description>
+
+&lt;p&gt;Même si la situation se rencontre beaucoup plus souvent outre-atlantique qu&amp;rsquo;en France, certaines entreprises n&amp;rsquo;hésitent pas à faire passer des entretiens techniques à ses futurs développeurs.&lt;/p&gt;
+
+&lt;p&gt;Afin d&amp;rsquo;être préparé au mieux face à ce genre de situation, voici un florilège de questions, glanées ici et là, sur le langage Go.&lt;/p&gt;
+
+&lt;h1 id=&#34;expliquer-ce-qu-est-un-workspace-en-go:4ac098308a25ed8e0dd71adee8cdffe8&#34;&gt;Expliquer ce qu&amp;rsquo;est un workspace en Go ?&lt;/h1&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

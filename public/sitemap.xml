@@ -3,7 +3,33 @@
   
   <url>
     <loc>http://cognitio.net/</loc>
+    <lastmod>2016-07-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cognitio.net/about/</loc>
+    <lastmod>2016-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cognitio.net/agility/agility/</loc>
+    <lastmod>2016-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cognitio.net/ml/ml/</loc>
+    <lastmod>2016-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cognitio.net/nlp/nlp/</loc>
+    <lastmod>2016-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cognitio.net/golang/golang-programming-interview-questions/</loc>
+    <lastmod>2016-07-17T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
