@@ -2,7 +2,7 @@
     <div>
         <section id="datecount">
           <h4 id="date"> {{ .Date.Format "2016.01.02" }} </h4>
-          <h5 id="wc"> {{ .FuzzyWordCount }} mots </h5>
+          <h5 id="wc"> {{ .FuzzyWordCount }} words </h5>
         </section>
         <ul id="categories">
           {{ range .Params.topics }}
@@ -19,7 +19,7 @@
 
     <div>
         <section id="author">
-             <h4>A propos de l'auteur :</h4> 
+             <h4>About the author:</h4> 
             <p>
             </p>
         </section>

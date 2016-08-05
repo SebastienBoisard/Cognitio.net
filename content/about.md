@@ -1,8 +1,11 @@
-+++
-title = "About"
-date = "2016-07-22"
-sidemenu = "true"
-description = "About me and this site"
-+++
+---
+date: 2016-07-22
+Title: About me
+Description: Some information about me and this site
+Keywords:
+Tags:
+Topics:
+---
 
-Quelques informations sur moi et sur ce site
+I need to talk about myself in this page.  
+It won't be simple.

@@ -1,6 +1,6 @@
 ---
 date: 2016-07-17
-Title: Le Machine Learning
+Title: Machine Learning
 Description: 
 Section: ml
 Keywords:
@@ -13,4 +13,3 @@ Tags:
 Topics:
 ---
 
-Article en cours d'écriture

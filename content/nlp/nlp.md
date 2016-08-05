@@ -1,6 +1,6 @@
 ---
 date: 2016-07-17
-Title: Le Traitement du Langage Naturel
+Title: Natural Language Processing
 Description: 
 Section: nlp
 Keywords:
@@ -12,4 +12,3 @@ Tags:
 Topics:
 ---
 
-Article en cours d'écriture

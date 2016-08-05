@@ -1,13 +1,11 @@
 ---
 date: 2016-07-17
-Title: L'agilité
+Title: Agility
 Description: 
 Section: agility
 Keywords:
-- agile
+- Agile
 Tags:
-- outil de communication
+- communication
 Topics:
 ---
-
-Article en cours d'écriture
