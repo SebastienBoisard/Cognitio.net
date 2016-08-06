@@ -17,23 +17,19 @@
 {{ partial "subheader.html" . }}
 
 <section id="main">
-  <div>
-      <h1 id="title">{{.Site.Title}}</h1>
-  {{ range $section, $taxonomy := .Site.Sections }}
+   <div>
+   <br/>
+   <p><b>Cognitio</b> (/koɡˈni.ti.oː/) means <b>'knowledge'</b> and also <b>'learning, study'</b>.</p>
+   <p>So this site is my humble attempt to represent my knowledge about <b>coding</b>, especially in <b>Go</b>, <b>Natural Language Processing</b> through <b>Machine Learning</b>, and all the paradigms, and the <b>agility</b> required to change them, of a classical company.</p>
+
+      {{ range $section, $taxonomy := .Site.Sections }}
          {{ if (gt (len $section) 0) }}
-        {{ range $taxonomy.Pages }} 
-{{ .Render "summary"}}
-        {{ end }}
-        {{ end }}
-    {{ end }}
-  </div>
-
-
-  <div>
-    {{ range first 10  .Data.Pages }}
-     
-    {{ end }}
-  </div>
+            {{ range $taxonomy.Pages }} 
+               {{ .Render "summary"}}
+            {{ end }}
+         {{ end }}
+      {{ end }}
+   </div>
 
 
 </section>
